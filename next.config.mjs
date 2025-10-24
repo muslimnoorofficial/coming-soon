@@ -2,7 +2,7 @@
 const nextConfig = {
   experimental: {
     // Disable turbopack by default for compatibility with shadcn UI
-    turbopack: false,
+    // turbopack: false,
   },
   reactStrictMode: true,
   images: {
