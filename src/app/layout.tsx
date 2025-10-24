@@ -5,8 +5,8 @@ import { cn } from '@/lib/utils';
 import { Outfit } from 'next/font/google';
 
 export const metadata = {
-  title: 'TailAdmin Dashboard',
-  description: 'Tailwind CSS admin dashboard built with Shadcn UI and Next.js',
+  title: 'Muslim Noor',
+  description: 'Muslim Noor was created to strengthen the connection between Muslims, their mosques, and their daily acts of worship.',
 };
 
 // Load the Outfit font from Google and expose its class name. The
