@@ -10,7 +10,7 @@ To illuminate community life with technology that unites **faith, service, and c
 ---
 
 ## 🚀 Launch Date
-**December 12, 2025**  
+**February 10, 2026**  
 We’re preparing something special. Count the days with us until the Noor shines brighter!
 
 ---
