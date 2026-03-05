@@ -26,7 +26,7 @@ export default function ComingSoon() {
   const [open, setOpen] = useState(false);
 
   // 🎯 Launch date
-  const launchDate = new Date("2026-02-10T00:00:00Z").getTime();
+  const launchDate = new Date("2026-03-25T00:00:00Z").getTime();
 
   // ⏳ Countdown timer
   useEffect(() => {
